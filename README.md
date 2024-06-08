@@ -53,4 +53,8 @@ Bu program, bir otelin temel işlemlerini gerçekleştirmek için bir yönetim s
 12. **odaKayitIslemleri()**: Oda kayıt işlemlerini gerçekleştirmek için kullanılır (ekleme, listeleme).
 
 ---
+# Lisans 
+Bu proje MIT Lisansı kapsamında lisanslanmıştır; ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
+
+## Abdullah Ekşi
 
